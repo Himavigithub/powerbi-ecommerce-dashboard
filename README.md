@@ -16,3 +16,5 @@ Compared delivery performance by category
 Power BI 
 DAX
 Data cleaning using power query
+## Published In PowerBI
+https://app.powerbi.com/links/f-Jraj8gJO?ctid=6faddc4a-b692-41cd-aa16-efeaa97fe27c&pbi_source=linkShare
